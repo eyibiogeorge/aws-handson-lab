@@ -14,3 +14,6 @@
 3. enter name and description
 4. Create a Key pair with name "ubuntu_svr_kp" and key file format ".pem"
 ![](img/3.%20create%20launch%20template.jpg)
+
+5. create security group
+
